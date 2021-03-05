@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Setup Web Server use Bitnami Image for React Js Application
 
 ## OS VERSION
